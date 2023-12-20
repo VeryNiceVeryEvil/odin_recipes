@@ -1,0 +1,1 @@
+First exercise in Odin Project Foundations course. Demonstrates page hierarchy, images, and ordered/unordered lists. Began habit of including links to source materials, including accessibility tags for images, and more.
